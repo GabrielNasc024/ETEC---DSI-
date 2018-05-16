@@ -1,0 +1,15 @@
+C:\Users\Aluno\AppData\Local\Temporary Projects\calculadoraD\bin\Debug\calculadoraD.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\calculadoraD\bin\Debug\calculadoraD.pdb
+C:\Users\Aluno\AppData\Local\Temporary Projects\calculadoraD\obj\x86\Debug\calculadoraD.Form1.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\calculadoraD\obj\x86\Debug\calculadoraD.Properties.Resources.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\calculadoraD\obj\x86\Debug\calculadoraD.csproj.GenerateResource.Cache
+C:\Users\Aluno\AppData\Local\Temporary Projects\calculadoraD\obj\x86\Debug\calculadoraD.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\calculadoraD\obj\x86\Debug\calculadoraD.pdb
+G:\DSI\exercicios\calculadoraD\calculadoraD\obj\x86\Debug\calculadoraD.exe
+G:\DSI\exercicios\calculadoraD\calculadoraD\obj\x86\Debug\calculadoraD.pdb
+G:\DSI\exercicios\calculadoraD\calculadoraD\bin\Debug\calculadoraD.exe
+G:\DSI\exercicios\calculadoraD\calculadoraD\bin\Debug\calculadoraD.pdb
+G:\DSI\exercicios\calculadoraD\calculadoraD\obj\x86\Debug\calculadoraD.Properties.Resources.resources
+G:\DSI\exercicios\calculadoraD\calculadoraD\obj\x86\Debug\calculadoraD.csproj.GenerateResource.Cache
+G:\DSI\exercicios\calculadoraD\calculadoraD\obj\x86\Debug\calculadoraD.csprojResolveAssemblyReference.cache
+G:\DSI\exercicios\calculadoraD\calculadoraD\obj\x86\Debug\calculadoraD.frmCalcu.resources
